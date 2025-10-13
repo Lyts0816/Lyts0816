@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Mac</h1>
 
 <p align="center">
-  🚀 <strong>Full-stack web developer</strong> focused on solving real business problems with modern tech.  
+  🚀 <strong>Web developer</strong> focused on solving real business problems with modern tech.  
   Passionate about building practical, efficient, and scalable applications.
 </p>
 

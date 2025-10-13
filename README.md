@@ -33,7 +33,6 @@
 
 ### 🔍 What I'm Exploring
 - 🧩 Advanced **Laravel + FilamentPHP** for building modern admin dashboards  
-- ☁️ **Cloud deployment** (Docker, VPS, and CI/CD pipelines)  
 - ⚙️ **APIs** and seamless front-to-back integration  
 
 ---

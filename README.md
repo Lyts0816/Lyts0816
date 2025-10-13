@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Lyts</h1>
+<h1 align="center">Hey there 👋 I'm Mac</h1>
 
 <p align="center">
   🚀 <strong>Full-stack web developer</strong> focused on solving real business problems with modern tech.  
